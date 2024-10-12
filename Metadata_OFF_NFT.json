@@ -2,7 +2,7 @@
   "name": "RUG POLICE OFFICERS",
   "description": "RUGP Officers NFT gives you free access to all RUGP products. It offers a good return on investment and looks great in your collection.",
   "content_type": "video/mp4",
-  "content_url": "https://raw.github.com/RUGPOLICE/NFT/blob/main/Officer_nft.mp4",
+  "content_url": "https://raw.github.com/RUGPOLICE/NFT/main/Officer_nft.mp4",
   "attributes": [
     {
       "trait_type": "Star material ",
