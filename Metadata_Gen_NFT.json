@@ -2,7 +2,7 @@
   "name": "RUG POLICE GENERALS",
   "description": "RUGP Generals NFT is an NFT that gives you a say in the project's development. Owners of this NFT get a bigger share of the profits and access to exclusive opportunities within RUGP",
   "content_type": "video/mp4",
-  "content_url": "https://raw.github.com/RUGPOLICE/NFT/blob/main/Gen_nft.mp4",
+  "content_url": "https://raw.github.com/RUGPOLICE/NFT/main/Gen_nft.mp4",
   "attributes": [
     {
       "trait_type": "Star material ",
